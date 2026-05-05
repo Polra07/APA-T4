@@ -1,11 +1,11 @@
-# Cuarta tarea de APA 2023: Generación de números aleatorios
+# Cuarta tarea de APA 2026: Generación de números aleatorios
 
-## Nom i cognoms
+## Pol Ramirez Sanchez
 
 > [!Important]
 > Introduzca a continuación su nombre y apellidos:
 >
-> Fulano Mengano Zutano
+> Pol Ramirez Sanchez
 
 ## Aviso Importante
 
@@ -193,7 +193,7 @@ resultado de la ejecución de los tests unitarios.
 Inserte a continuación el código de los métodos desarrollados en esta tarea, usando los
 comandos necesarios para que se realice el realce sintáctico en Python del mismo (no
 vale insertar una imagen o una captura de pantalla, debe hacerse en formato *markdown*).
-"""python
+```python
 """
 Fichero: aleatorios.py
 Alumno: Pol Ramirez Sanchez
@@ -295,6 +295,7 @@ if __name__ == "__main__":
     import doctest
     # Ejecuta las pruebas definidas en los docstrings
     doctest.testmod(verbose=True)
+```
 
 #### Subida del resultado al repositorio GitHub y *pull-request*
 
